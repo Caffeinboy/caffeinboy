@@ -12,7 +12,7 @@ Embedded Systems Engineer | IoT Developer | Firmware Enthusiast
 | Category | Technologies |
 |----------|---------------|
 | Microcontrollers | ESP32, ESP8266, Arduino, ARM, STM32, Raspberry Pi |
-| Languages | C, C++, Python, Assembly |
+| Languages | C, C++, Python, Assembly, HTML |
 | Protocols | UART, SPI, I2C, CAN, WiFi, BLE, Zigbee, MQTT, https.client |
 | Tools | PlatformIO, Arduino IDE, STM32CubeIDE, Keil µVision |
 | Development | Firmware, IoT, Real-time systems, Hardware drivers |
