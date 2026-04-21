@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Caffeinboy 
 
-<!--
-**Caffeinboy/caffeinboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineer | IoT Developer | Firmware Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- B.Tech in Electrical & Electronics Engineering
+- Passionate about embedded systems and IoT solutions
+- Hands-on experience with microcontrollers and real-time systems
+- Problem solver focused on hardware-software integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Microcontroller Expertise
+| Category | Technologies |
+|----------|---------------|
+| Microcontrollers | ESP32, ESP8266, Arduino, ARM STM32, Raspberry Pi |
+| Languages | C, C++, Python, Assembly |
+| Protocols | UART, SPI, I2C, CAN, WiFi, BLE, Zigbee , MQTT , https.client |
+| Tools | PlatformIO, Arduino IDE, STM32CubeIDE, Keil µVision |
+| Development | Firmware, IoT, Real-time systems, Hardware drivers |
+
+## Key Skills
+- Microcontroller Programming: C/C++ firmware development
+- IoT Solutions: WiFi/BLE connectivity, Cloud integration
+- Hardware Integration: Sensors, actuators, communication modules
+- Real-time Systems: RTOS, interrupts, timing-critical applications
+- Debugging & Testing: Logic analyzers, oscilloscopes, serial debugging
+
+## Featured Projects
+Check out my repositories for:
+- ESP32/ESP8266 IoT projects
+- ARM STM32 embedded applications
+- Arduino microcontroller solutions
+- Sensor interfacing & data logging
+- Real-time firmware implementations
+
+## Interests
+- IoT and connected devices
+- Embedded AI/ML
+- Low-power applications
+- Hardware optimization
+- Open-source embedded projects
+
+## Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/yedhu-krishna-42b047303)
+- Email: yedhukrishnan3051@gmail.com
+
+---
+Open to collaborating on embedded systems projects and IoT innovations!
